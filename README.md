@@ -18,7 +18,8 @@ job navn: exclusive
 HUSK SELV AT OPRETTE DETTE I DATABSEN
 
 Engelsk
--- REMEMBER use qtarget or meta_target.
+
+  -- REMEMBER use qtarget or meta_target.
 
   -- You must have the resource called cron
 
